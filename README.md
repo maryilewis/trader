@@ -1,0 +1,2 @@
+# trader
+A browser game.
